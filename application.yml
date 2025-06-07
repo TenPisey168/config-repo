@@ -1,0 +1,3 @@
+# application.yml
+message:
+  global: Hello from global config!
